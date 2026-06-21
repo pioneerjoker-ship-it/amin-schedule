@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-bfast@kaoyan
 SUMMARY:🍳 早餐
-DESCRIPTION:训练日早餐 533kcal P30/F12/C76\\n燕麦片80g + 蛋白粉15g + 水煮蛋1个 + 红薯100g\\n做法：燕麦+粉+开水泡2min，蛋和红薯微波1min\\n替换：B快速 燕麦100g+粉20g+蛋1个(540) 不开微波\\n      C双蛋 燕麦70g+粉15g+蛋2个+红薯80g(552) 撑到中午\\n      D纯冷吃 即食燕麦100g+粉20g+蛋1个(540) 零加热
+DESCRIPTION:训练日早餐 533kcal P30/F12/C76\n燕麦片80g + 蛋白粉15g + 水煮蛋1个 + 红薯100g\n做法：燕麦+粉+开水泡2min，蛋和红薯微波1min\n替换：B快速 燕麦100g+粉20g+蛋1个(540) 不开微波\n      C双蛋 燕麦70g+粉15g+蛋2个+红薯80g(552)\n      D纯冷吃 即食燕麦100g+粉20g+蛋1个(540) 零加热
 DTSTART;TZID=Asia/Shanghai:20260622T063000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR
 DURATION:PT20M
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-math@kaoyan
 SUMMARY:📐 数学
-DESCRIPTION:07:30-08:30 回顾/预习/碎片练习\\n08:30-11:30 ★ 主块（对齐考试时间）\\n11:30-11:40 收尾标注
+DESCRIPTION:07:30-08:30 回顾/预习/碎片练习\n08:30-11:30 ★ 主块（对齐考试时间）\n11:30-11:40 收尾标注
 DTSTART;TZID=Asia/Shanghai:20260622T073000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR
 DURATION:PT4H10M
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-premeal@kaoyan
 SUMMARY:🥗 练前餐
-DESCRIPTION:练前餐 305kcal P28/F3/C43\\n红薯200g + 鸡胸肉丸110g\\n冷吃即食\\n替换：B燕麦 燕麦55g+丸110g(335)\\n      C纯丸 丸240g+粉5g(294) 零碳水
+DESCRIPTION:练前餐 305kcal P28/F3/C43\n红薯200g + 鸡胸肉丸110g\n冷吃即食\n替换：B燕麦 燕麦55g+丸110g(335)\n      C纯丸 丸240g+粉5g(294) 零碳水
 DTSTART;TZID=Asia/Shanghai:20260622T114000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR
 DURATION:PT10M
@@ -90,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-upperA@kaoyan
 SUMMARY:🏋️ 上肢A
-DESCRIPTION:【周一】上肢A · 推为主+水平拉 65min\\n1. 杠铃卧推 4×6-8 (20→35-40kg)\\n2. 坐姿划船 4×8-10 (33-40kg)\\n3. 上斜哑铃卧推 4×8-10 (12.5kg)\\n4. 宽距高位下拉 3×8-10 (32.5-40kg)\\n5. 哑铃侧平举 3×12-15 递减组\\n6. 直杆绳索下压 3×10-12 (26-33kg)\\n练后：爬坡20min 坡度12/速度4-5
+DESCRIPTION:【周一】上肢A · 推为主+水平拉 65min\n1. 杠铃卧推 4×6-8 (20→35-40kg)\n2. 坐姿划船 4×8-10 (33-40kg)\n3. 上斜哑铃卧推 4×8-10 (12.5kg)\n4. 宽距高位下拉 3×8-10 (32.5-40kg)\n5. 哑铃侧平举 3×12-15 递减组\n6. 直杆绳索下压 3×10-12 (26-33kg)\n练后：爬坡20min 坡度12/速度4-5
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=MO
 DURATION:PT1H5M
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-lowerA@kaoyan
 SUMMARY:🏋️ 下肢A
-DESCRIPTION:【周二】下肢A · 蹲为主 65min\\n1. 杠铃深蹲 4×6-8 (空杆→50-65kg)\\n2. 罗马尼亚硬拉 4×8-10 (25kg)\\n3. 腿举 3×8-10 (80-100kg)\\n4. 坐姿腿弯举 3×10-12 (26kg)\\n5. 坐姿髋外展 3×12-15 (33kg)\\n6. 哈克机提踵 3×12-15\\n练后：爬坡20min 坡度12/速度4-5
+DESCRIPTION:【周二】下肢A · 蹲为主 65min\n1. 杠铃深蹲 4×6-8 (空杆→50-65kg)\n2. 罗马尼亚硬拉 4×8-10 (25kg)\n3. 腿举 3×8-10 (80-100kg)\n4. 坐姿腿弯举 3×10-12 (26kg)\n5. 坐姿髋外展 3×12-15 (33kg)\n6. 哈克机提踵 3×12-15\n练后：爬坡20min 坡度12/速度4-5
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=TU
 DURATION:PT1H5M
@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-upperB@kaoyan
 SUMMARY:🏋️ 上肢B
-DESCRIPTION:【周四】上肢B · 拉为主+肩推 65min\\n1. 站姿杠铃推举 4×6-8 (15-20kg)\\n2. T杆划船(窄) 4×8-10 (20-25kg)\\n3. 把手式蝴蝶机飞鸟 3×10-12 (26-39kg)\\n4. 单手悍马机划船 3×8-10 (15-20kg单边)\\n5. 面拉 3×12-15 (26-32.5kg)\\n6. 哑铃侧平举 3×12-15 递减组\\n7. 哑铃弯举 3×8-12 (7.5kg)\\n练后：爬坡20min 坡度12/速度4-5
+DESCRIPTION:【周四】上肢B · 拉为主+肩推 65min\n1. 站姿杠铃推举 4×6-8 (15-20kg)\n2. T杆划船(窄) 4×8-10 (20-25kg)\n3. 把手式蝴蝶机飞鸟 3×10-12 (26-39kg)\n4. 单手悍马机划船 3×8-10 (15-20kg单边)\n5. 面拉 3×12-15 (26-32.5kg)\n6. 哑铃侧平举 3×12-15 递减组\n7. 哑铃弯举 3×8-12 (7.5kg)\n练后：爬坡20min 坡度12/速度4-5
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=TH
 DURATION:PT1H5M
@@ -114,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-lowerB@kaoyan
 SUMMARY:🏋️ 下肢B
-DESCRIPTION:【周五】下肢B · 髋铰链为主 65min\\n1. 罗马尼亚硬拉 4×6-8 (25-30kg)\\n2. 哈克机早安 4×8-10 (80-100kg)\\n3. 坐姿腿屈伸 3×10-12 (26-33kg)\\n4. 坐姿髋内收 3×12-15 (26-44kg)\\n5. 山羊挺身 3×10-12 (自重/抱片)\\n6. 卷腹/悬垂举腿 3×15-20\\n练后：爬坡20min 坡度12/速度4-5
+DESCRIPTION:【周五】下肢B · 髋铰链为主 65min\n1. 罗马尼亚硬拉 4×6-8 (25-30kg)\n2. 哈克机早安 4×8-10 (80-100kg)\n3. 坐姿腿屈伸 3×10-12 (26-33kg)\n4. 坐姿髋内收 3×12-15 (26-44kg)\n5. 山羊挺身 3×10-12 (自重/抱片)\n6. 卷腹/悬垂举腿 3×15-20\n练后：爬坡20min 坡度12/速度4-5
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=FR
 DURATION:PT1H5M
@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-postmeal@kaoyan
 SUMMARY:🥩 练后餐
-DESCRIPTION:练后餐 549kcal P59/F6/C66\\n鸡胸肉丸200g + 红薯310g + 蛋白粉10g\\n微波2分钟\\n替换：B燕麦 丸170g+燕麦85g+粉10g(560)\\n      C豆腐 丸150g+豆腐150g+红薯280g+粉10g(585)
+DESCRIPTION:练后餐 549kcal P59/F6/C66\n鸡胸肉丸200g + 红薯310g + 蛋白粉10g\n微波2分钟\n替换：B燕麦 丸170g+燕麦85g+粉10g(560)\n      C豆腐 丸150g+豆腐150g+红薯280g+粉10g(585)
 DTSTART;TZID=Asia/Shanghai:20260622T135500
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR
 DURATION:PT15M
@@ -154,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-dinner@kaoyan
 SUMMARY:🍚 晚餐
-DESCRIPTION:晚餐 1195kcal P65/F27/C176\\n鸡胸肉丸120g + 红薯340g + 燕麦片130g\\n+ 老豆腐120g + 绿叶蔬菜300g + 油8g\\n替换：B炸锅 丸180g+豆腐150g+菜400g进炸锅180°C 8min\\n      C练腿日 丸180g+豆腐200g+红薯300g+燕麦80g\\n      D纯红薯 丸180g+红薯700g+豆腐120g+油12g
+DESCRIPTION:晚餐 1195kcal P65/F27/C176\n鸡胸肉丸120g + 红薯340g + 燕麦片130g\n+ 老豆腐120g + 绿叶蔬菜300g + 油8g\n替换：B炸锅 丸+豆腐+菜进炸锅180°C 8min\n      C练腿日 丸180g+豆腐200g+红薯300g+燕麦80g\n      D纯红薯 丸180g+红薯700g+豆腐120g+油12g
 DTSTART;TZID=Asia/Shanghai:20260622T182000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR
 DURATION:PT20M
@@ -170,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-bfast@kaoyan
 SUMMARY:🍳 早餐
-DESCRIPTION:休息日早餐 533kcal P30/F12/C76\\n同训练日：燕麦80g+蛋白粉15g+蛋1个+红薯100g
+DESCRIPTION:休息日早餐 533kcal P30/F12/C76\n同训练日：燕麦80g+蛋白粉15g+蛋1个+红薯100g
 DTSTART;TZID=Asia/Shanghai:20260622T070000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SA,SU
 DURATION:PT20M
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-math@kaoyan
 SUMMARY:📐 数学
-DESCRIPTION:08:00-12:00 4h\\n前30min回顾/预习\\n08:30-11:30 ★ 主块\\n11:30-12:00 收尾
+DESCRIPTION:08:00-12:00 4h\n前30min回顾/预习\n08:30-11:30 ★ 主块\n11:30-12:00 收尾
 DTSTART;TZID=Asia/Shanghai:20260622T080000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SA,SU
 DURATION:PT4H
@@ -186,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-lunch@kaoyan
 SUMMARY:🍱 午餐
-DESCRIPTION:休息日午餐 697kcal P55/F12/C92\\n鸡胸肉丸130g + 红薯250g + 燕麦片55g\\n+ 老豆腐100g + 蛋白粉8g\\n替换：B纯红薯 燕麦→红薯150g+丸150g(720)\\n      C高蛋白 丸180g去粉(705)\\n      D豆腐为主 丸100g+豆腐200g(680)
+DESCRIPTION:休息日午餐 697kcal P55/F12/C92\n鸡胸肉丸130g + 红薯250g + 燕麦片55g\n+ 老豆腐100g + 蛋白粉8g\n替换：B纯红薯 燕麦→红薯150g+丸150g(720)\n      C高蛋白 丸180g去粉(705)\n      D豆腐为主 丸100g+豆腐200g(680)
 DTSTART;TZID=Asia/Shanghai:20260622T120000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SA,SU
 DURATION:PT25M
@@ -210,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-cardio-dinner@kaoyan
 SUMMARY:🪜 有氧+晚餐
-DESCRIPTION:休息日晚餐 1053kcal P72/F25/C137\\n鸡胸肉丸180g + 红薯250g + 燕麦片100g\\n+ 老豆腐100g + 蔬菜300g + 油8g\\n替换：B炸锅 丸+豆腐+菜进炸锅(1030)\\n      C纯红薯 燕麦→红薯350g(1050)\\n      D高蛋白 丸220g+燕麦80g(1090)
+DESCRIPTION:休息日晚餐 1053kcal P72/F25/C137\n鸡胸肉丸180g + 红薯250g + 燕麦片100g\n+ 老豆腐100g + 蔬菜300g + 油8g\n替换：B炸锅 丸+豆腐+菜进炸锅(1030)\n      C纯红薯 燕麦→红薯350g(1050)\n      D高蛋白 丸220g+燕麦80g(1090)
 DTSTART;TZID=Asia/Shanghai:20260622T180000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SA,SU
 DURATION:PT40M
@@ -226,7 +226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c-408@kaoyan
 SUMMARY:💻 408 专业课 4h
-DESCRIPTION:14:00-17:00 ★ 主块（对齐考试时间）\\n前30min滚动复习\\n17:00-18:00 错题复盘+收尾
+DESCRIPTION:14:00-17:00 ★ 主块（对齐考试时间）\n前30min滚动复习\n17:00-18:00 错题复盘+收尾
 DTSTART;TZID=Asia/Shanghai:20260622T140000
 RRULE:FREQ=DAILY
 DURATION:PT4H
