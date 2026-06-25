@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-bfast@kaoyan
 SUMMARY:🍳 早餐
-DESCRIPTION:训练日早餐 533kcal P30/F12/C76\n燕麦片80g + 蛋白粉15g + 水煮蛋1个 + 红薯100g\n做法：燕麦+粉+开水泡2min，蛋和红薯微波1min\n替换：B快速 燕麦100g+粉20g+蛋1个(540) 不开微波\n      C双蛋 燕麦70g+粉15g+蛋2个+红薯80g(552)\n      D纯冷吃 即食燕麦100g+粉20g+蛋1个(540) 零加热
+DESCRIPTION:训练日早餐 450kcal P28/F17/C45\n燕麦80g + 蛋白粉15g + 水煮蛋1个\n做法：燕麦泡热水/微波2min，粉搅进去，蛋提前煮好
 DTSTART;TZID=Asia/Shanghai:20260622T063000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT20M
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-pack@kaoyan
 SUMMARY:🎒 装包
-DESCRIPTION:三盒（练前+练后+晚餐）+ 燕麦碗 + 蛋 + 红薯
+DESCRIPTION:三盒（练前+练后+晚餐） + 燕麦盒 + 蛋\n鸡胸即食，蛋白粉吃前再搅
 DTSTART;TZID=Asia/Shanghai:20260622T065000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT15M
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-premeal@kaoyan
 SUMMARY:🥗 练前餐
-DESCRIPTION:练前餐 305kcal P28/F3/C43\n红薯200g + 鸡胸肉丸110g\n冷吃即食\n替换：B燕麦 燕麦55g+丸110g(335)\n      C纯丸 丸240g+粉5g(294) 零碳水
+DESCRIPTION:练前餐 381kcal P49/F7/C31\n燕麦50g + 鸡胸2块(160g)\n做法：燕麦+鸡胸撕块混一起，冷吃或微波
 DTSTART;TZID=Asia/Shanghai:20260622T114000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT10M
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-postmeal@kaoyan
 SUMMARY:🥩 练后餐
-DESCRIPTION:练后餐 549kcal P59/F6/C66\n鸡胸肉丸200g + 红薯310g + 蛋白粉10g\n微波2分钟\n替换：B燕麦 丸170g+燕麦85g+粉10g(560)\n      C豆腐 丸150g+豆腐150g+红薯280g+粉10g(585)
+DESCRIPTION:练后餐 676kcal P91/F13/C50\n鸡胸3块(240g) + 燕麦80g + 蛋白粉20g\n做法：鸡胸+燕麦微波2min，粉搅进去
 DTSTART;TZID=Asia/Shanghai:20260622T135500
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT15M
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-dinner@kaoyan
 SUMMARY:🍚 晚餐
-DESCRIPTION:晚餐 1195kcal P65/F27/C176\n鸡胸肉丸120g + 红薯340g + 燕麦片130g\n+ 老豆腐120g + 绿叶蔬菜300g + 油8g\n替换：B炸锅 丸+豆腐+菜进炸锅180°C 8min\n      C练腿日 丸180g+豆腐200g+红薯300g+燕麦80g\n      D纯红薯 丸180g+红薯700g+豆腐120g+油12g
+DESCRIPTION:晚餐 1009kcal P89/F27/C102\n燕麦150g + 鸡胸3块(240g)\n+ 绿叶蔬菜300g + 烹饪油6g\n做法：燕麦微波+鸡胸撕块+菜油炒/微波
 DTSTART;TZID=Asia/Shanghai:20260622T182000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT20M
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-bfast@kaoyan
 SUMMARY:🍳 早餐
-DESCRIPTION:休息日早餐 533kcal P30/F12/C76\n同训练日：燕麦80g+蛋白粉15g+蛋1个+红薯100g
+DESCRIPTION:休息日早餐 468kcal P26/F18/C50\n燕麦90g + 蛋白粉10g + 水煮蛋1个\n做法同训练日
 DTSTART;TZID=Asia/Shanghai:20260622T070000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SU
 DURATION:PT20M
@@ -195,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-lunch@kaoyan
 SUMMARY:🍱 午餐
-DESCRIPTION:休息日午餐 697kcal P55/F12/C92\n鸡胸肉丸130g + 红薯250g + 燕麦片55g\n+ 老豆腐100g + 蛋白粉8g\n替换：B纯红薯 燕麦→红薯150g+丸150g(720)\n      C高蛋白 丸180g去粉(705)\n      D豆腐为主 丸100g+豆腐200g(680)
+DESCRIPTION:休息日午餐 632kcal P61/F18/C56\n燕麦95g + 鸡胸2块(160g) + 水煮蛋1个\n做法：燕麦微波，鸡胸撕块，蛋切半
 DTSTART;TZID=Asia/Shanghai:20260622T120000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SU
 DURATION:PT25M
@@ -219,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-cardio-dinner@kaoyan
 SUMMARY:🪜 有氧+晚餐
-DESCRIPTION:休息日晚餐 1053kcal P72/F25/C137\n鸡胸肉丸180g + 红薯250g + 燕麦片100g\n+ 老豆腐100g + 蔬菜300g + 油8g\n替换：B炸锅 丸+豆腐+菜进炸锅(1030)\n      C纯红薯 燕麦→红薯350g(1050)\n      D高蛋白 丸220g+燕麦80g(1090)
+DESCRIPTION:休息日晚餐 966kcal P106/F23/C85\n燕麦115g + 鸡胸4块(320g) + 蔬菜300g + 油6g\n有氧30-40min后吃
 DTSTART;TZID=Asia/Shanghai:20260622T180000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SU
 DURATION:PT40M
@@ -272,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c-mealprep@kaoyan
 SUMMARY:🍱 备餐
-DESCRIPTION:煮蛋+蒸红薯+丸子装盒+燕麦称好+蔬菜洗净
+DESCRIPTION:煮蛋(批量2-3天) + 鸡胸拆袋 + 燕麦称好装盒 + 蔬菜洗净
 DTSTART;TZID=Asia/Shanghai:20260622T202500
 RRULE:FREQ=DAILY
 DURATION:PT30M
