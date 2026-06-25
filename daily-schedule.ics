@@ -114,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-legs@kaoyan
 SUMMARY:🏋️ 腿 55min
-DESCRIPTION:杠铃深蹲 热2+正4×6-8\n罗马尼亚硬拉 4×8-10\n犀牛蹲 3×8-10\n坐姿腿弯举 3×10-12\n髋外展 3×12-15\n髋内收 3×12-15\n哈克机提踵 3×12-15\n练后：爬坡20min
+DESCRIPTION:杠铃深蹲 热2+正4×6-8\n罗马尼亚硬拉 4×8-10\n腿屈伸 3×12-15\n坐姿腿弯举 3×10-12\n髋外展 3×12-15\n髋内收 3×12-15\n哈克机提踵 3×12-15\n练后：爬坡20min
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=FR
 DURATION:PT55M
