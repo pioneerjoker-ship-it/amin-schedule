@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-bfast@kaoyan
 SUMMARY:🍳 早餐
-DESCRIPTION:训练日早餐 510kcal P37/F19/C48\n燕麦85g + 蛋白粉25g + 水煮蛋1个\n做法：燕麦泡热水/微波2min，粉搅进去，蛋提前煮好
+DESCRIPTION:训练日早餐 552kcal P45/F20/C48\n燕麦85g + 蛋白粉35g + 水煮蛋1个\n做法：燕麦泡热水/微波2min，粉搅进去，蛋提前煮好
 DTSTART;TZID=Asia/Shanghai:20260622T063000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT20M
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-premeal@kaoyan
 SUMMARY:🥗 练前餐
-DESCRIPTION:练前餐 381kcal P49/F7/C31\n鸡胸2块(160g) + 燕麦50g\n做法：鸡胸撕块+燕麦混一起，冷吃或微波
+DESCRIPTION:练前餐 288kcal P28/F7/C29\n鸡胸1块(80g) + 燕麦50g\n做法：鸡胸撕块+燕麦混一起，冷吃或微波
 DTSTART;TZID=Asia/Shanghai:20260622T114000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT10M
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-postmeal@kaoyan
 SUMMARY:🥩 练后餐
-DESCRIPTION:练后餐 625kcal P77/F14/C48\n鸡胸2块(160g) + 燕麦80g + 蛋白粉30g\n做法：鸡胸+燕麦微波2min，粉搅进去
+DESCRIPTION:练后餐 535kcal P62/F14/C41\n鸡胸1块(80g) + 燕麦70g + 蛋白粉40g\n做法：鸡胸+燕麦微波2min，粉搅进去
 DTSTART;TZID=Asia/Shanghai:20260622T135500
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT15M
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-dinner@kaoyan
 SUMMARY:🍚 晚餐
-DESCRIPTION:晚餐 879kcal P78/F25/C85\n燕麦121g + 鸡胸2块(160g)\n+ 蔬菜300g + 油6g + 蛋白粉18g\n做法：燕麦微波+鸡胸撕块+菜油炒/微波+粉搅入
+DESCRIPTION:晚餐 907kcal P101/F25/C70\n燕麦92g + 鸡胸2块(160g)\n+ 蔬菜300g + 油6g + 蛋白粉51g\n做法：燕麦微波+鸡胸撕块+菜油炒/微波+粉搅入
 DTSTART;TZID=Asia/Shanghai:20260622T182000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT20M
