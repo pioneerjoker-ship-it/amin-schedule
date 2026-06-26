@@ -122,7 +122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-arms@kaoyan
 SUMMARY:🏋️ 手臂 45min
-DESCRIPTION:超级组① 绳索下压→哑铃弯举 3×10-12\n超级组② 颈后臂屈伸→器械弯举 3×10-12\n超级组③ 过头臂屈伸→锤式弯举 3×12-15\n腹肌 悬垂举腿/卷腹 3×15-20\n练后：爬坡20min
+DESCRIPTION:绳索臂屈伸 4×10-12\nEZ杆屈伸 3×10-12\n坐姿哑铃臂屈伸 3×12-15\n杠铃弯举 4×8-10\n器械弯举 3×10-12\n锤式弯举 3×12-15\n悬垂举腿/卷腹 3×15-20\n练后：爬坡20min
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=SA
 DURATION:PT45M
