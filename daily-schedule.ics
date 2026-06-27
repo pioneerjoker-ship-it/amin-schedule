@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-bfast@kaoyan
 SUMMARY:🍳 早餐
-DESCRIPTION:训练日早餐 552kcal P45/F20/C48\n燕麦85g + 蛋白粉35g + 水煮蛋1个\n做法：燕麦泡热水/微波2min，粉搅进去，蛋提前煮好
+DESCRIPTION:训练日早餐 562kcal P22/F22/C69\n燕麦125g + 水煮蛋1个\n做法：燕麦泡热水/微波2min，蛋提前煮好
 DTSTART;TZID=Asia/Shanghai:20260622T063000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT20M
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-pack@kaoyan
 SUMMARY:🎒 装包
-DESCRIPTION:三盒（练前+练后+晚餐） + 燕麦盒 + 蛋\n鸡胸即食，蛋白粉吃前再搅
+DESCRIPTION:三盒等量（练前+练后+晚餐）\n鸡丸+西兰花水煮，土豆切块，蛋白粉吃前搅
 DTSTART;TZID=Asia/Shanghai:20260622T065000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT15M
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-premeal@kaoyan
 SUMMARY:🥗 练前餐
-DESCRIPTION:练前餐 288kcal P28/F7/C29\n鸡胸1块(80g) + 燕麦50g\n做法：鸡胸撕块+燕麦混一起，冷吃或微波
+DESCRIPTION:练前餐 534kcal P71/F7/C46\n土豆185g + 鸡丸165g + 西兰花170g + 蛋白粉30g\n做法：土豆蒸熟，鸡丸西兰花水煮，粉搅入
 DTSTART;TZID=Asia/Shanghai:20260622T114000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT10M
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-postmeal@kaoyan
 SUMMARY:🥩 练后餐
-DESCRIPTION:练后餐 535kcal P62/F14/C41\n鸡胸1块(80g) + 燕麦70g + 蛋白粉40g\n做法：鸡胸+燕麦微波2min，粉搅进去
+DESCRIPTION:练后餐 534kcal P71/F7/C46\n土豆185g + 鸡丸165g + 西兰花170g + 蛋白粉30g\n做法：同练前餐
 DTSTART;TZID=Asia/Shanghai:20260622T135500
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT15M
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:t-dinner@kaoyan
 SUMMARY:🍚 晚餐
-DESCRIPTION:晚餐 907kcal P101/F25/C70\n燕麦92g + 鸡胸2块(160g)\n+ 蔬菜300g + 油6g + 蛋白粉51g\n做法：燕麦微波+鸡胸撕块+菜油炒/微波+粉搅入
+DESCRIPTION:晚餐 532kcal P72/F7/C45\n土豆180g + 鸡丸170g + 西兰花160g + 蛋白粉30g\n做法：土豆蒸熟，鸡丸西兰花水煮，粉搅入
 DTSTART;TZID=Asia/Shanghai:20260622T182000
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,TH,FR,SA
 DURATION:PT20M
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-bfast@kaoyan
 SUMMARY:🍳 早餐
-DESCRIPTION:休息日早餐 533kcal P41/F20/C48\n燕麦85g + 蛋白粉30g + 水煮蛋1个\n做法同训练日
+DESCRIPTION:休息日早餐 524kcal P21/F21/C63\n燕麦115g + 水煮蛋1个\n做法同训练日
 DTSTART;TZID=Asia/Shanghai:20260622T070000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SU
 DURATION:PT20M
@@ -195,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-lunch@kaoyan
 SUMMARY:🍱 午餐
-DESCRIPTION:休息日午餐 696kcal P77/F19/C54\n鸡胸2块(160g) + 燕麦90g + 蛋1个 + 蛋白粉20g\n做法：燕麦微波，鸡胸撕块，蛋切半，粉搅入
+DESCRIPTION:休息日午餐 683kcal P89/F9/C60\n土豆225g + 鸡丸225g + 西兰花300g + 蛋白粉30g\n做法：土豆蒸熟，鸡丸西兰花水煮，粉搅入
 DTSTART;TZID=Asia/Shanghai:20260622T120000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SU
 DURATION:PT25M
@@ -219,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:r-cardio-dinner@kaoyan
 SUMMARY:🪜 有氧+晚餐
-DESCRIPTION:休息日晚餐 772kcal P84/F20/C64\n燕麦82g + 鸡胸2块(160g) + 蔬菜300g + 油5g + 蛋白粉31g\n有氧30-40min后吃
+DESCRIPTION:休息日晚餐 683kcal P89/F9/C60\n土豆225g + 鸡丸225g + 西兰花300g + 蛋白粉30g\n有氧30-40min后吃
 DTSTART;TZID=Asia/Shanghai:20260622T180000
 RRULE:FREQ=WEEKLY;BYDAY=WE,SU
 DURATION:PT40M
@@ -272,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c-mealprep@kaoyan
 SUMMARY:🍱 备餐
-DESCRIPTION:煮蛋(批量2-3天) + 鸡胸拆袋 + 燕麦称好装盒 + 蔬菜洗净
+DESCRIPTION:燕麦称好 + 蛋煮好 + 土豆切块 + 鸡丸做好 + 西兰花洗净\n训练日装三盒等量，休息日装两盒等量
 DTSTART;TZID=Asia/Shanghai:20260622T202500
 RRULE:FREQ=DAILY
 DURATION:PT30M
