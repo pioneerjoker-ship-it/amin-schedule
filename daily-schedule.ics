@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-back@kaoyan
 SUMMARY:🏋️ 背 55min
-DESCRIPTION:器械划船 4×8-10\n反握器械高位下拉 4×8-10\n山羊挺身 3×10-12\n铁杆直臂下压 3×10-12
+DESCRIPTION:器械划船 4×8-10\n反握器械高位下拉 4×8-10\n坐姿V-bar划船 3×10-12\n铁杆直臂下压 3×10-12
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=TU
 DURATION:PT55M
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-shoulder@kaoyan
 SUMMARY:🏋️ 肩 55min
-DESCRIPTION:哑铃侧平举(递减组) 4×12-15\n站姿杠铃实力推 4×6-8\n蝴蝶机反向飞鸟 4×10-12\n面拉 3×12-15\n绳索侧平举(单手) 3×12-15
+DESCRIPTION:站姿杠铃实力推 4×6-8\n哑铃侧平举(递减组) 4×12-15\n蝴蝶机反向飞鸟 4×10-12\n面拉 3×12-15\n绳索侧平举(单手) 3×12-15
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=TH
 DURATION:PT55M
@@ -101,7 +101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-legs@kaoyan
 SUMMARY:🏋️ 腿 55min
-DESCRIPTION:臀桥热身 2×20\n杠铃深蹲 热2+正4×8\n罗马尼亚硬拉 3×8\n坐姿腿屈伸 3×12-15\n坐姿腿弯举 3×10-12\n坐姿髋内收 2×12-15\n坐姿髋外展 2×12-15\n站姿器械提踵 3×15\n史密斯臀冲 4×8-10\n山羊挺身 3×12-15
+DESCRIPTION:杠铃深蹲 热2+正4×8\n罗马尼亚硬拉 3×8\n坐姿腿屈伸 3×12-15\n坐姿腿弯举 3×10-12\n坐姿髋内收→髋外展(超级组) 各2×12-15\n站姿器械提踵 3×15
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=FR
 DURATION:PT55M
@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wo-arms@kaoyan
 SUMMARY:🏋️ 手臂 45min
-DESCRIPTION:绳索臂屈伸 4×10-12\nEZ杆屈伸 3×10-12\n坐姿哑铃臂屈伸 3×12-15\n杠铃弯举 4×8-10\n器械弯举 3×10-12\n锤式弯举 3×12-15\n悬垂举腿/卷腹 3×15-20
+DESCRIPTION:绳索臂屈伸 3×10-12\n杠铃弯举 3×8-10\nEZ杆屈伸 3×10-12\n器械弯举 3×10-12\n坐姿哑铃臂屈伸 3×12-15\n锤式弯举 3×12-15\n悬垂举腿/卷腹 3×15-20
 DTSTART;TZID=Asia/Shanghai:20260622T123500
 RRULE:FREQ=WEEKLY;BYDAY=SA
 DURATION:PT45M
