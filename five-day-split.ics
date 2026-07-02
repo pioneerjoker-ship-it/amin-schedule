@@ -38,7 +38,7 @@ DTSTART;TZID=Asia/Shanghai:20260622T123500
 DTEND;TZID=Asia/Shanghai:20260622T130500
 RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261231T235959
 SUMMARY:周日·体态 30min
-DESCRIPTION:猫式伸展/死虫式/臀桥静态/鸟狗式/农夫行走/靠墙天使/山羊挺身/死悬吊
+DESCRIPTION:猫式伸展/死虫式静态/单腿臀桥/鸟狗式/侧桥支撑/农夫行走/自重分腿蹲/靠墙静蹲/死悬吊
 UID:20260622-cardio-WE@amin-fitness
 END:VEVENT
 BEGIN:VEVENT
