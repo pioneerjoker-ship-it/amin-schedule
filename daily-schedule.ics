@@ -39,7 +39,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260707T072000
 DTEND;TZID=Asia/Shanghai:20260707T120000
 SUMMARY:📐 数学 4h40min
-DESCRIPTION:回顾/预习→主块08:30-11:30→收尾.训练日11:30练前餐
+DESCRIPTION:1.猫式伸展 2min\n2.死虫式(静态) 3×30s/侧\n3.单腿臀桥(交替) 3×10/侧\n4.鸟狗式 3×8/侧\n5.侧桥支撑 3×25s/侧\n6.农夫行走 3×50步\n7.自重分腿蹲 3×10/侧\n8.靠墙静蹲 3×45s\n9.死悬吊 2×30s
 RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR,SA,SU;UNTIL=20261231T235959
 UID:amin-📐-数学-4h40min-0720
 END:VEVENT
